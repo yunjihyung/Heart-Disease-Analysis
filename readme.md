@@ -185,6 +185,7 @@ C:.
 │  │
 │  └─heart_2020_cleaned
 │          heart_2020_cleaned.csv
+```
 
 ### 파일 설명
 - heart_preprocessing.ipynb
