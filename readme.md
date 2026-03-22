@@ -9,8 +9,7 @@
 ---
 
 ## 수상
-
-[demo](assets/award.png)
+<img src="assets/award.png" width="500"/>
 
 - 실무 보고서 부문 우수상
 - 포스터&발표 부문 장려상
