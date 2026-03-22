@@ -9,8 +9,7 @@
 ---
 
 ## 수상
-
-[award image](assets/award.png)
+<img src="assets/award.png" width="500"/>
 
 - 실무 보고서 부문 우수상
 - 포스터&발표 부문 장려상
@@ -194,21 +193,21 @@ C:.
 ```
 
 ### 파일 설명
-heart_preprocessing.ipynb
+- heart_preprocessing.ipynb
 데이터 정제, 인코딩, 변수 변환, 최종 입력 데이터 생성
-heart_eda.ipynb
+- heart_eda.ipynb
 EDA, 시각화, 통계 검정
-heart_modeling.ipynb
+- heart_modeling.ipynb
 성능 모델 / 해석 모델 / 캘리브레이션 모델 구축 및 평가
-streamlit_app.py
+- streamlit_app.py
 Streamlit 기반 예측 서비스 실행 파일
-utils.py
+- utils.py
 성능측정 보조 함수
-final_models.pkl
+- final_models.pkl
 최종 학습 모델 및 관련 객체 저장 파일
-dataset/heart_preprocessed.csv
+- dataset/heart_preprocessed.csv
 전처리 완료 데이터
-dataset/heart_2020_cleaned/heart_2020_cleaned.csv
+- dataset/heart_2020_cleaned/heart_2020_cleaned.csv
 원본 데이터셋
 
 ## 실행방법
